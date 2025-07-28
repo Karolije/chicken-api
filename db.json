@@ -23,6 +23,12 @@
       "amount": 7,
       "date": "2025-07-27",
       "price": null
-    }
+    },
+    {
+      "id": "816bdf35-ef0e-4859-9bfa-6195dfd50acc",
+      "type": "collected",
+      "amount": 5,
+      "date": "2025-07-28"
+      }
   ]
 }
